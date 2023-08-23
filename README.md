@@ -12,7 +12,7 @@ I'm a software engineering student at the University of Central Punjab (UCP). I 
 
 ## Projects
 
-- 
+- WordSearchGame (https://github.com/ghousali002/Word_Search_Game.git)
 - 
 
 ## Technologies
