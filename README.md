@@ -28,7 +28,7 @@ I've been exposed to a wide range of technologies and tools through my studies, 
 
 ## Connect with Me
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/ghousali002/
 - Twitter: 
 - Email: ghousali002@gmail.com / ghous290@gmail.com
 
