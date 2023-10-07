@@ -14,6 +14,7 @@ I'm a software engineering student at the University of Central Punjab (UCP). I 
 
 - WordSearchGame using C++ (OOP, DSA) (https://github.com/ghousali002/Word_Search_Game.git)
 - KinGChatRoom using Node | Express | JS | CSS (https://github.com/ghousali002/KinG_Chat_Room_Project.git)
+- To-Do List using React | JS | CSS (https://github.com/ghousali002/TO-DO-List-Project.git)
 
 ## Technologies
 
