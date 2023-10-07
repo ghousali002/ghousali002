@@ -12,8 +12,8 @@ I'm a software engineering student at the University of Central Punjab (UCP). I 
 
 ## Projects
 
-- WordSearchGame (https://github.com/ghousali002/Word_Search_Game.git)
-- 
+- WordSearchGame using C++ (OOP, DSA) (https://github.com/ghousali002/Word_Search_Game.git)
+- KinGChatRoom using Node | Express | JS | CSS (https://github.com/ghousali002/KinG_Chat_Room_Project.git)
 
 ## Technologies
 
@@ -29,6 +29,5 @@ I've been exposed to a wide range of technologies and tools through my studies, 
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ghousali002/
-- Twitter: 
 - Email: ghousali002@gmail.com / ghous290@gmail.com
 
