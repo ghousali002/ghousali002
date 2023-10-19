@@ -1,21 +1,21 @@
 # Hello, I'm Ghous Ali 👋
 
-I'm a software engineering student at the University of Central Punjab (UCP). I recently completed my 6th semester and have been passionately exploring the world of software development. This README provides an insight into my journey and areas of interest.
-
+I am a software engineering student at the University of Central Punjab (UCP), currently in my final year, working on my Degree's Final Year Project (FYP). This README offers insights into my academic journey and areas of interest.
 ## About Me
 
 - 🎓 Studying Software Engineering at UCP.
-- 🌱 Currently learning and experimenting with various programming languages and technologies.
+- 🌱 Learning and experimenting with various programming languages and technologies.
 - 💡 Exploring software design patterns, algorithms, and data structures.
 - 🚀 Enthusiastic about contributing to open-source projects and building innovative software solutions.
-- 🎯 Interested in web development, mobile app development, and software architecture.
+- 🎯 Interested in web development (MERN/MEAN), mobile app development, and software architecture.
 
 ## Projects
 
+- Real Time News React Project using ReactJs | JS | CSS (https://github.com/ghousali002/Real-Time-News-React-Project.git)
 - MovieHax using ReactJs | JS | CSS (https://github.com/ghousali002/MovieHax-React-Project-.git)
-- WordSearchGame using C++ (OOP, DSA) (https://github.com/ghousali002/Word_Search_Game.git)
 - KinGChatRoom using Node | Express | JS | CSS (https://github.com/ghousali002/KinG_Chat_Room_Project.git)
 - To-Do List using React | JS | CSS (https://github.com/ghousali002/TO-DO-List-Project.git)
+- WordSearchGame using C++ (OOP, DSA) (https://github.com/ghousali002/Word_Search_Game.git)
 
 ## Technologies
 
