@@ -1,6 +1,7 @@
 # Hello, I'm Ghous Ali 👋
 
-I am a software engineering student at the University of Central Punjab (UCP), currently in my final year, working on my Degree's Final Year Project (FYP). This README offers insights into my academic journey and areas of interest.
+I am a freshly graduated MERN Stack developer with 1 year of hands-on experience. I am passionate about creating exceptional web applications with a focus on user-centric design and functionality. I also have experience in Python, C/C++, and Java, allowing me to contribute to a wide range of development environments.
+
 ## About Me
 
 - 🎓 Studying Software Engineering at UCP.
