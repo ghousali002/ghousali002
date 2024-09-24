@@ -3,7 +3,7 @@
 I am a freshly graduated MERN Stack developer with 1 year of hands-on experience. I am passionate about creating exceptional web applications with a focus on user-centric design and functionality. I also have experience in Python, C/C++, and Java, allowing me to contribute to a wide range of development environments.
 
 ## Portfolio
-- 🎯 https://github.com/ghousali002/Portfolio/edit/master/README.md
+- 🎯 https://ghousportfolio.vercel.app/
 
 ## About Me
 
